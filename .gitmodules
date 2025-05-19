@@ -1,0 +1,3 @@
+[submodule "opendialkg"]
+	path = opendialkg
+	url = https://github.com/facebookresearch/opendialkg.git
